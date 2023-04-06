@@ -1,2 +1,2 @@
 # Sorting-Algorithms
-Top Sorting Algorithms with code
+Top Sorting Algorithms with Python code
